@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HENRIQUE</Machine>
+    <WindowsUser>Henrique</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>c944feae-a874-43e0-8b33-a7f825d045ff</PackageIdentityName>
+    <IntermediateOutputPath>F:\Documentos\Visual Studio 2015\Projects\NavSharedApp1\NavSharedApp1\NavSharedApp1.Windows\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>38BC35E768E6A9BB34B70D43344C2BBEAFCA1065AFAB541CC8A9D792D37D8E9D</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>c944feae-a874-43e0-8b33-a7f825d045ff_1.0.0.0_neutral__vcr7tdmdjj9br</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>c944feae-a874-43e0-8b33-a7f825d045ff_vcr7tdmdjj9br!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>c944feae-a874-43e0-8b33-a7f825d045ff</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Henrique</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\Documentos\Visual Studio 2015\Projects\NavSharedApp1\NavSharedApp1\NavSharedApp1.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-03T23:01:15.300</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\Documentos\Visual Studio 2015\Projects\NavSharedApp1\NavSharedApp1\NavSharedApp1.Windows\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2015-09-03T20:43:43.153</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Documentos\Visual Studio 2015\Projects\NavSharedApp1\NavSharedApp1\NavSharedApp1.Windows\pages\home\home.css">
+      <PackagePath>pages\home\home.css</PackagePath>
+      <Modified>2015-09-03T20:43:43.157</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Documentos\Visual Studio 2015\Projects\NavSharedApp1\NavSharedApp1\NavSharedApp1.Shared\pages\home\stylesheet.css">
+      <PackagePath>pages\home\stylesheet.css</PackagePath>
+      <Modified>2015-09-03T23:18:19.374</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Documentos\Visual Studio 2015\Projects\NavSharedApp1\NavSharedApp1\NavSharedApp1.Windows\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2015-09-03T20:47:08.049</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Documentos\Visual Studio 2015\Projects\NavSharedApp1\NavSharedApp1\NavSharedApp1.Shared\pages\home\home.html">
+      <PackagePath>pages\home\home.html</PackagePath>
+      <Modified>2015-09-03T23:37:08.205</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Documentos\Visual Studio 2015\Projects\NavSharedApp1\NavSharedApp1\NavSharedApp1.Windows\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-07T01:02:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Documentos\Visual Studio 2015\Projects\NavSharedApp1\NavSharedApp1\NavSharedApp1.Windows\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-07T01:02:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Documentos\Visual Studio 2015\Projects\NavSharedApp1\NavSharedApp1\NavSharedApp1.Windows\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-07T01:02:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Documentos\Visual Studio 2015\Projects\NavSharedApp1\NavSharedApp1\NavSharedApp1.Windows\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-07T01:02:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Documentos\Visual Studio 2015\Projects\NavSharedApp1\NavSharedApp1\NavSharedApp1.Shared\image\cpp.png">
+      <PackagePath>image\cpp.png</PackagePath>
+      <Modified>2015-09-03T23:03:55.404</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Documentos\Visual Studio 2015\Projects\NavSharedApp1\NavSharedApp1\NavSharedApp1.Shared\image\csharp.png">
+      <PackagePath>image\csharp.png</PackagePath>
+      <Modified>2015-09-03T23:04:10.438</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Documentos\Visual Studio 2015\Projects\NavSharedApp1\NavSharedApp1\NavSharedApp1.Shared\image\Javascript.png">
+      <PackagePath>image\Javascript.png</PackagePath>
+      <Modified>2015-09-03T23:04:37.092</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Documentos\Visual Studio 2015\Projects\NavSharedApp1\NavSharedApp1\NavSharedApp1.Shared\image\C.png">
+      <PackagePath>image\C.png</PackagePath>
+      <Modified>2015-09-03T23:02:16.849</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Documentos\Visual Studio 2015\Projects\NavSharedApp1\NavSharedApp1\NavSharedApp1.Shared\image\ruby.png">
+      <PackagePath>image\ruby.png</PackagePath>
+      <Modified>2015-09-03T23:06:03.238</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Documentos\Visual Studio 2015\Projects\NavSharedApp1\NavSharedApp1\NavSharedApp1.Shared\image\Matlab.png">
+      <PackagePath>image\Matlab.png</PackagePath>
+      <Modified>2015-09-03T23:05:01.789</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Documentos\Visual Studio 2015\Projects\NavSharedApp1\NavSharedApp1\NavSharedApp1.Shared\image\Python.png">
+      <PackagePath>image\Python.png</PackagePath>
+      <Modified>2015-09-03T23:05:33.187</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Documentos\Visual Studio 2015\Projects\NavSharedApp1\NavSharedApp1\NavSharedApp1.Shared\image\R.png">
+      <PackagePath>image\R.png</PackagePath>
+      <Modified>2015-09-03T23:05:49.392</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Documentos\Visual Studio 2015\Projects\NavSharedApp1\NavSharedApp1\NavSharedApp1.Shared\image\java.jpg">
+      <PackagePath>image\java.jpg</PackagePath>
+      <Modified>2015-09-03T23:04:23.268</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Documentos\Visual Studio 2015\Projects\NavSharedApp1\NavSharedApp1\NavSharedApp1.Shared\image\php.jpg">
+      <PackagePath>image\php.jpg</PackagePath>
+      <Modified>2015-09-03T23:05:16.962</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Documentos\Visual Studio 2015\Projects\NavSharedApp1\NavSharedApp1\NavSharedApp1.Shared\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2015-09-03T20:43:41.518</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Documentos\Visual Studio 2015\Projects\NavSharedApp1\NavSharedApp1\NavSharedApp1.Shared\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2015-09-03T20:43:41.611</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Documentos\Visual Studio 2015\Projects\NavSharedApp1\NavSharedApp1\NavSharedApp1.Shared\pages\home\home.js">
+      <PackagePath>pages\home\home.js</PackagePath>
+      <Modified>2015-09-03T23:34:56.942</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Documentos\Visual Studio 2015\Projects\NavSharedApp1\NavSharedApp1\NavSharedApp1.Windows\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-09-03T23:01:15.267</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

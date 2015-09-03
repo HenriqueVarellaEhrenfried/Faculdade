@@ -1,0 +1,15 @@
+f:\documentos\visual studio 2015\Projects\NavSharedApp1\NavSharedApp1\NavSharedApp1.Windows\bin\Debug\ReverseMap\resources.pri
+f:\documentos\visual studio 2015\Projects\NavSharedApp1\NavSharedApp1\NavSharedApp1.Windows\bin\Debug\AppxManifest.xml
+f:\documentos\visual studio 2015\Projects\NavSharedApp1\NavSharedApp1\NavSharedApp1.Windows\bin\Debug\NavSharedApp1.Windows.build.appxrecipe
+f:\documentos\visual studio 2015\Projects\NavSharedApp1\NavSharedApp1\NavSharedApp1.Windows\bld\Debug\priconfig.xml
+f:\documentos\visual studio 2015\Projects\NavSharedApp1\NavSharedApp1\NavSharedApp1.Windows\bld\Debug\priconfig.xml.intermediate
+f:\documentos\visual studio 2015\Projects\NavSharedApp1\NavSharedApp1\NavSharedApp1.Windows\bld\Debug\layout.resfiles
+f:\documentos\visual studio 2015\Projects\NavSharedApp1\NavSharedApp1\NavSharedApp1.Windows\bld\Debug\layout.resfiles.intermediate
+f:\documentos\visual studio 2015\Projects\NavSharedApp1\NavSharedApp1\NavSharedApp1.Windows\bld\Debug\resources.resfiles
+f:\documentos\visual studio 2015\Projects\NavSharedApp1\NavSharedApp1\NavSharedApp1.Windows\bld\Debug\resources.resfiles.intermediate
+f:\documentos\visual studio 2015\Projects\NavSharedApp1\NavSharedApp1\NavSharedApp1.Windows\bld\Debug\pri.resfiles
+f:\documentos\visual studio 2015\Projects\NavSharedApp1\NavSharedApp1\NavSharedApp1.Windows\bld\Debug\pri.resfiles.intermediate
+f:\documentos\visual studio 2015\Projects\NavSharedApp1\NavSharedApp1\NavSharedApp1.Windows\bld\Debug\qualifiers.txt
+f:\documentos\visual studio 2015\Projects\NavSharedApp1\NavSharedApp1\NavSharedApp1.Windows\bld\Debug\qualifiers.txt.intermediate
+f:\documentos\visual studio 2015\Projects\NavSharedApp1\NavSharedApp1\NavSharedApp1.Windows\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+f:\documentos\visual studio 2015\Projects\NavSharedApp1\NavSharedApp1\NavSharedApp1.Windows\bld\Debug\ProjectArchitectures.txt

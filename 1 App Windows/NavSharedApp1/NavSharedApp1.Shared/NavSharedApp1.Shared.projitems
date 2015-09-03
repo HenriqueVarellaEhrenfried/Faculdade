@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>abf3e150-d110-4b9f-aa8b-7d1d1eaa67a4</SharedGUID>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="$(MSBuildThisFileDirectory)image\cpp.png" />
+    <Content Include="$(MSBuildThisFileDirectory)image\csharp.png" />
+    <Content Include="$(MSBuildThisFileDirectory)image\java.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)image\Javascript.png" />
+    <Content Include="$(MSBuildThisFileDirectory)image\C.png" />
+    <Content Include="$(MSBuildThisFileDirectory)image\ruby.png" />
+    <Content Include="$(MSBuildThisFileDirectory)image\Matlab.png" />
+    <Content Include="$(MSBuildThisFileDirectory)image\php.jpg" />
+    <Content Include="$(MSBuildThisFileDirectory)image\Python.png" />
+    <Content Include="$(MSBuildThisFileDirectory)image\R.png" />
+    <Content Include="$(MSBuildThisFileDirectory)js\navigator.js" />
+    <Content Include="$(MSBuildThisFileDirectory)js\default.js" />
+    <Content Include="$(MSBuildThisFileDirectory)pages\home\home.js" />
+    <Content Include="$(MSBuildThisFileDirectory)pages\home\home.html" />
+    <Content Include="$(MSBuildThisFileDirectory)pages\home\stylesheet.css" />
+  </ItemGroup>
+</Project>
